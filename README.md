@@ -7,7 +7,7 @@ y lo deja listo para copiar de vuelta al juego.
 
 Ver `canciones.txt` para saber que `.bin` es cada cancion.
 
-<img width="904" height="633" alt="image" src="https://github.com/user-attachments/assets/71290a50-5a30-407f-a9a4-be44423e33a4" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/71290a50-5a30-407f-a9a4-be44423e33a4" />
 
 ## Uso rapido
 
