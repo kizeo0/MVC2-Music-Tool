@@ -1,0 +1,37 @@
+MUSICA DE MARVEL VS CAPCOM 2 (PS3) - que .bin es cada cancion
+======================================================================
+Todos son streams CRI ADX tipo 3, estereo, 44100 Hz.
+Los marcados con (?) se identificaron por duracion: confirma
+de oido con el boton Reproducir de la herramienta.
+
+adx_capl.bin     | Logo Capcom                      |   223542 B |    4.5 s | loop: no
+adx_cont.bin     | Continue                         |   602112 B |   12.1 s | loop: SI (4.4s -> 12.1s)
+adx_here.bin     | Here Comes a New Challenger      |   127350 B |    2.6 s | loop: no
+adx_menu.bin     | Menu principal                   |  1583104 B |   31.8 s | loop: SI (10.6s -> 31.8s)
+adx_netw.bin     | Red / Network (sin usar)         |  3723264 B |   75.0 s | loop: SI (11.3s -> 75.0s)
+adx_open.bin     | Opening                          |  1736892 B |   35.0 s | loop: no
+adx_over.bin     | Game Over                        |   288054 B |    5.8 s | loop: no
+adx_rank.bin     | Ranking                          |  1568768 B |   31.6 s | loop: SI (1.0s -> 31.6s)
+adx_s000.bin     | Escenario: Airship               |  3041280 B |   61.2 s | loop: SI (0.0s -> 61.2s)
+adx_s010.bin     | Escenario: Desert (?)            |  4558848 B |   91.8 s | loop: SI (0.0s -> 91.8s)
+adx_s020.bin     | Escenario: Factory (?)           |  3354624 B |   67.6 s | loop: SI (10.4s -> 67.6s)
+adx_s030.bin     | Escenario: Clock Tower (?)       |  3606528 B |   72.6 s | loop: SI (1.8s -> 72.6s)
+adx_s040.bin     | Escenario: River (?)             |  2856960 B |   57.5 s | loop: SI (6.7s -> 57.5s)
+adx_s050.bin     | Escenario: Cave                  |  2244608 B |   45.2 s | loop: SI (3.9s -> 45.2s)
+adx_s060.bin     | Escenario: Carnival (?)          |  3332096 B |   67.1 s | loop: SI (1.0s -> 67.1s)
+adx_s070.bin     | Escenario: Swamp (?)             |  2740224 B |   55.2 s | loop: SI (7.4s -> 55.2s)
+adx_s080.bin     | Escenario: Abyss 1               |  1288192 B |   25.9 s | loop: SI (2.0s -> 25.9s)
+adx_s090.bin     | Escenario: Abyss 2               |  1292288 B |   26.0 s | loop: SI (2.1s -> 26.0s)
+adx_s0a0.bin     | Escenario: Abyss 3               |  1288192 B |   25.9 s | loop: SI (2.0s -> 25.9s)
+adx_s0b0.bin     | Training (?)                     |  4890624 B |   98.5 s | loop: SI (17.0s -> 98.5s)
+adx_selc.bin     | Seleccion de personaje           |   417792 B |    8.4 s | loop: SI (0.4s -> 8.3s)
+adx_staf.bin     | Staff Roll                       |  5376582 B |  108.4 s | loop: no
+adx_wins.bin     | Winner                           |   352256 B |    7.1 s | loop: SI (0.7s -> 7.1s)
+
+NOTAS:
+- Los temas de escenario son 12 (s000-s0b0): 9 normales + 3 de Abyss.
+- s080/s090/s0a0 (~26 s c/u) son Abyss 1/2/3 (mismo tamano casi identico).
+- El jingle 'VS' (versus, ~7 s) NO tiene .bin propio: debe estar
+  dentro de otro archivo (efectos) o compartido; no se reemplaza aqui.
+- En modo ESTRICTO el .bin nuevo pesa EXACTAMENTE lo mismo que
+  el original: es lo que la PS3 necesita para no romper el juego.

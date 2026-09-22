@@ -1,0 +1,21 @@
+# Binarios pesados (GitHub no acepta archivos de mas de 100 MB:
+# ffmpeg.exe pesa ~100 MB, descargalo de https://ffmpeg.org/download.html
+# y ponelo junto al .py/.exe)
+ffmpeg.exe
+*.exe
+
+# Salidas de compilacion (se incluye el .spec como referencia)
+dist/
+build/
+
+# Cache y logs que genera la app al usarse
+cache_wav/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Previews temporales de reproduccion/edicion
+mvc2_music_preview*.wav
+mvc2_editor_preview.wav
